@@ -1,7 +1,7 @@
 baseURL: "lukaszeller.dev"
 languageCode: "en-us"
 title: "Lukas Zeller"
-theme: hugo-20Profile
+theme: hugo-profile
 
 outputs:
   home:
