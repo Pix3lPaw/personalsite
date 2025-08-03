@@ -176,6 +176,7 @@ params:
       title: "Here are a few technologies and skills I've been working with:"
       items:
         - "Unity"
+        - "Godot"
         - "C#"
         - "Lua"
         - "HTML"
