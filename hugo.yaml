@@ -176,6 +176,7 @@ params:
       title: "Here are a few technologies and skills I've been working with:"
       items:
         - "Unity"
+        - "C#"
         - "Lua"
         - "HTML"
         - "CSS"
@@ -186,13 +187,14 @@ params:
         - "Linux"
         - "PowerShell"
         - "C"
-        - "C#"
         - "Scrum"
         - "Thymeleaf"
         - "SQL"
         - "Project Management"
-        - "Go"
-        - "And much more!"
+        - "Visual Studio Code"
+        - "Server Management"
+        - "Docker"
+        - "And more!"
 
   # Experience
   experience:
@@ -267,7 +269,7 @@ params:
     items:
       - title: Dungeon Chef
         content: A Unity 2D Game, where you play the Chef in a Dungeon expedition and try to cook as many potions for the adventures as possible while being chased by a giant monster.
-        image: /images/projects/DungeonChefTrailer.gif
+        image: /images/projects/DungeonChefTrailer.webp
         featured:
           name: Demo
           link: /documents/Dungeon Chef.zip
@@ -284,7 +286,7 @@ params:
 
       - title: Beginnings 2
         content: A Roblox Survival Sandbox Game, where I was a leading developer for! It does have 1.6 Million Visits and nearly 45k favorites.
-        image: /images/projects/B2Trailer.gif
+        image: /images/projects/B2Trailer.webp
         featured:
           name: To the game
           link: https://www.roblox.com/games/5417748934/Beginnings-2#!/about
@@ -297,7 +299,7 @@ params:
 
       - title: John Magic
         content: A Game I totally progammed in Java in the high school, with it's own Soundtrack, Puzzles and a Boss Fight
-        image: /images/projects/JohnMagicTrailer.gif
+        image: /images/projects/JohnMagicTrailer.webp
         featured:
           name: Demo
           link: /documents/John Magic.zip
