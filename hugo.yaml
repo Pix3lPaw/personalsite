@@ -151,7 +151,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "/documents/ResumeLukasZeller.pdf"
       download: true
       newPage: false
     socialLinks:

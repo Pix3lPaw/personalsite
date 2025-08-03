@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lukas Zeller</title>
-    <link>lukaszeller.dev/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Lukas Zeller</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="lukaszeller.dev/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
