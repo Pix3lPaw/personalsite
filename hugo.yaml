@@ -286,7 +286,7 @@ params:
             url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
       - title: Beginnings 2
-        content: A Roblox Survival Sandbox Game, where I was a leading developer for! It does have 1.6 Million Visits and nearly 45k favorites.
+        content: "A Roblox Survival Sandbox Game, where I was a leading developer for! It does have 1.6 Million Visits and nearly 45k favorites. It does have a lot of interactions and features to explore. It's the sequel of Survival: Beginnings, which were a popular Roblox game back in 2015."
         image: /images/projects/B2Trailer.webp
         featured:
           name: To the game
